@@ -189,6 +189,7 @@
             this.Controls.Add(this.textBoxNumber);
             this.Controls.Add(this.lbPrice);
             this.Controls.Add(this.lbTime);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormMain";
             this.Text = "Form1";
