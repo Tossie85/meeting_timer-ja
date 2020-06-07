@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingTimer", "MeetingTimer.csproj", "{F5487BDD-0B6F-4B81-AFCE-FB7A4C93C3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5487BDD-0B6F-4B81-AFCE-FB7A4C93C3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5487BDD-0B6F-4B81-AFCE-FB7A4C93C3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5487BDD-0B6F-4B81-AFCE-FB7A4C93C3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5487BDD-0B6F-4B81-AFCE-FB7A4C93C3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B3EA88-1F42-4483-A8DD-97CB1A2E3BC9}
+	EndGlobalSection
+EndGlobal
