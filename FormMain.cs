@@ -84,7 +84,10 @@ namespace MeetingTimer
             buttonStop.Enabled = true;
             buttonStart.Enabled = false;
             timer1.Start();
-            watch = new Stopwatch();
+            if (watch == null)
+            {
+                watch = new Stopwatch();
+            }
             watch.Start();
         }
 
